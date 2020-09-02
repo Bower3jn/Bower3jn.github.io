@@ -1,6 +1,6 @@
 ## Welcome.
 
-Hi, My name is Nick.
+Hi, My name is Nick. :bamboo:
 
 & these are my top 3's (no specific order)
 
