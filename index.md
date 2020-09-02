@@ -14,15 +14,15 @@ Hi, My name is Nick.
 #### Artist (rap)
  > **Joey Bada$$**- song *like water*
  
-[![](http://img.youtube.com/vi/0fg08Hjwdo0/0.jpg)](http://www.youtube.com/watch?v=0fg08Hjwdo0 "")
+[![](http://img.youtube.com/vi/0fg08Hjwdo0/0.jpg)](http://www.youtube.com/watch?v=0fg08Hjwdo0 "JOEY")
  
  > **A$AP Rocky**- song *A$AP forever* 
  
- [![](http://img.youtube.com/vi/qxUKNrzX20M/0.jpg)](http://www.youtube.com/watch?v=qxUKNrzX20M "")
+ [![](http://img.youtube.com/vi/qxUKNrzX20M/0.jpg)](http://www.youtube.com/watch?v=qxUKNrzX20M "ASAP")
 
  > **Mac miller**- song *Thoughs from a balcony*
 
-[[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "ping")
+[[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "MAC")
 
 #### Shows 
  > Peaky Blinders 
