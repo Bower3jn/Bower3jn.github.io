@@ -53,10 +53,8 @@ As Alfie Solomons said:
  
  ------------------------------------------------------------------------------------------------------
 
-# Also
-
- I do nature photography.
- Missing my hardrive but I do have several Photos on my Visco Account 
+# Photography
  
+ missing hardrive but have some pics on a visco account...
  [*NewZeland2020*](https://vsco.co/nbower26/gallery) 
 
