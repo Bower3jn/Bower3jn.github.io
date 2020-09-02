@@ -1,34 +1,35 @@
 ## Welcome.
 
 Hi, My name is Nick.
+
 & these are my top 3's (no specific order)
 
 #### Movies 
-> The Usual Suspects
+ > The Usual Suspects
 
-> Cloverfeild 
+ > Cloverfeild 
 
-> Into The Wild 
+ > Into The Wild 
 
 #### Artist (rap)
-> Joey Bada$$- song: *hardknocks*
+ > **Joey Bada$$**- song *hardknocks*
 
-> Shy Glizzy- song: *take me away* 
+ > **Shy Glizzy**- song *take me away* 
 
-> Drake- song: *madonna*
+ > **Drake**- song *madonna*
 
 ### Shows 
-> Peaky Blinders 
+ > Peaky Blinders 
 
-> Wu-tang Clan 
+ > Wu-tang Clan 
 
-> Fullmetal Alchemist: Brotherhood 
+ > Fullmetal Alchemist: Brotherhood 
 
 ### Favorite Athletes
-> Luka Doncic (NBA)
+ > Luka Doncic (NBA)
 
-> Sean O'Malley (UFC)
+ > Sean O'Malley (UFC)
 
-> Nyjah huston (Skating)
+ > Nyjah huston (Skating)
 
 
