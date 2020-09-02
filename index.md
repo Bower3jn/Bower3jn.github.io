@@ -25,9 +25,9 @@ Hi, My name is Nick.
 [[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "MAC")
 
 #### Shows 
- > Peaky Blinders 
+ > [Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
 
- > Wu-tang Clan 
+ > [Wu-tang Clan] (https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
 
  > Fullmetal Alchemist: Brotherhood 
 
@@ -36,7 +36,7 @@ Hi, My name is Nick.
 
  > Sean O'Malley (UFC)
 
- > Nyjah huston (Skating)
+ > John Wall (NBA)
  
   
 
