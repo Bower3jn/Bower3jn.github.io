@@ -1,13 +1,21 @@
 ## Welcome.
 
 Hi, My name is Nick.
-& these are some things I like,
+& these are my top 3's (no specific order)
 
-#### favorite Artist (rap)
+#### Movies 
+>The Usual Suspects
+>Cloverfeild 
+>Into The Wild 
+#### Artist (rap)
 >Joey Bada$$ 
->Mac Miller
+>Shy Glizzy
 >Drake
->Shy Glizzy 
+### Shows 
+>Peaky Blinders 
+>Wu-tang Clan 
+>Fullmetal Alchemist: Brotherhood 
+
 
 
 
