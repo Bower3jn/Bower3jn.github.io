@@ -12,9 +12,9 @@ Hi, My name is Nick.
  > Into The Wild 
 
 #### Artist (rap)
- > **Joey Bada$$**- song *like water*
+ > **Joey Bada$$**- song *hard knock*
  
-[![](http://img.youtube.com/vi/0fg08Hjwdo0/0.jpg)](http://www.youtube.com/watch?v=0fg08Hjwdo0 "JOEY")
+[![](http://img.youtube.com/vi/Uv658wfVt6I/0.jpg)](http://www.youtube.com/watch?v=Uv658wfVt6I "Joey")
  
  > **A$AP Rocky**- song *A$AP forever* 
  
@@ -27,9 +27,9 @@ Hi, My name is Nick.
 #### Shows 
  > [Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
 
- > [Wu-tang Clan] (https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
+ > [Wu-tang Clan](https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
 
- > Fullmetal Alchemist: Brotherhood 
+ > [Fullmetal Alchemist: Brotherhood](https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood)
 
 #### Favorite Athletes
  > Luka Doncic (NBA)
