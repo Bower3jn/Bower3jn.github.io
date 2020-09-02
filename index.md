@@ -12,13 +12,17 @@ Hi, My name is Nick.
  > Into The Wild 
 
 #### Artist (rap)
- > **Joey Bada$$**- song *hardknocks* [![](http://img.youtube.com/vi/c84hT_DseRg/0.jpg)](http://www.youtube.com/watch?v=c84hT_DseRg "")
- [![](http://img.youtube.com/vi/c84hT_DseRg/0.jpg)](http://www.youtube.com/watch?v=c84hT_DseRg "")
+ > **Joey Bada$$**- song *like water*
  
+[![](http://img.youtube.com/vi/0fg08Hjwdo0/0.jpg)](http://www.youtube.com/watch?v=0fg08Hjwdo0 "")
+ 
+ > **A$AP Rocky**- song *A$AP forever* 
+ 
+ [![](http://img.youtube.com/vi/qxUKNrzX20M/0.jpg)](http://www.youtube.com/watch?v=qxUKNrzX20M "")
 
- > **Shy Glizzy**- song *take me away* 
+ > **Mac miller**- song *Thoughs from a balcony*
 
- > **Drake**- song *madonna*
+[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "")
 
 #### Shows 
  > Peaky Blinders 
