@@ -5,11 +5,11 @@ Hi, My name is Nick.
 & these are my top 3's (no specific order)
 
 #### Movies 
- > The Usual Suspects
+ > [The Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
 
- > Cloverfeild 
+ > [Cloverfeild](https://en.wikipedia.org/wiki/Cloverfield)
 
- > Into The Wild 
+ > [Into The Wild](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
 
 #### Artist (rap)
  > **Joey Bada$$**- song *hard knock*
@@ -34,9 +34,15 @@ Hi, My name is Nick.
 #### Favorite Athletes
  > Luka Doncic (NBA)
 
+[![](http://img.youtube.com/vi/PnQ1L9V-ELg/0.jpg)](http://www.youtube.com/watch?v=PnQ1L9V-ELg "ski")
  > Sean O'Malley (UFC)
+ 
+[![](http://img.youtube.com/vi/kYO5xpxvuQM/0.jpg)](http://www.youtube.com/watch?v=kYO5xpxvuQM "ski")
 
- > John Wall (NBA)
+ > Candide Thovex (Ski)
+ 
+[![](http://img.youtube.com/vi/yKP7jQknGjs/0.jpg)](http://www.youtube.com/watch?v=yKP7jQknGjs "ski")
+ 
  
   
 
