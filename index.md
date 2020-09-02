@@ -4,14 +4,14 @@ Hi, My name is Nick.
 
 & these are my top 3's (no specific order)
 
-### Movies 
+## Movies 
  > [The Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
 
  > [Cloverfeild](https://en.wikipedia.org/wiki/Cloverfield)
 
  > [Into The Wild](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
 
-### Artist (rap)
+## Artist (rap)
  > **Joey Bada$$**- song *hard knock*
  
 [![](http://img.youtube.com/vi/Uv658wfVt6I/0.jpg)](http://www.youtube.com/watch?v=Uv658wfVt6I "Joey")
@@ -24,14 +24,14 @@ Hi, My name is Nick.
 
 [[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "MAC")
 
-### Shows 
+## Shows
  > [Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
 
  > [Wu-tang Clan](https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
 
  > [Fullmetal Alchemist: Brotherhood](https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood)
 
-### Favorite Athletes
+## Favorite Athletes
  > Luka Doncic (NBA)
 
 [![](http://img.youtube.com/vi/PnQ1L9V-ELg/0.jpg)](http://www.youtube.com/watch?v=PnQ1L9V-ELg "ski")
