@@ -26,10 +26,18 @@ Hi, My name is Nick.
 
 ## Shows
  - [Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
+ 
+As Alfie Solomons said:
+
+>Intelligence is a very valuable thing, innit, my friend. And usually it comes far too fucking lat
 
  - [Wu-tang Clan](https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
 
  - [Fullmetal Alchemist: Brotherhood](https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood)
+ 
+ As Edward Elric said:
+ 
+>It's a cruel and random world, but the chaos is all so beautiful.” “A lesson without pain is meaningless. For you cannot gain anything without sacrificing   >something else in return, but once you have overcome it and made it your own...you will gain an irreplaceable fullmetal heart.”
 
 ## Favorite Athletes
  - Luka Doncic (NBA)
