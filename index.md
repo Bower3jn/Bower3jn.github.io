@@ -12,7 +12,9 @@ Hi, My name is Nick.
  > Into The Wild 
 
 #### Artist (rap)
- > **Joey Bada$$**- song *hardknocks*
+ > **Joey Bada$$**- song *hardknocks* [![](http://img.youtube.com/vi/c84hT_DseRg/0.jpg)](http://www.youtube.com/watch?v=c84hT_DseRg "")
+ [![](http://img.youtube.com/vi/c84hT_DseRg/0.jpg)](http://www.youtube.com/watch?v=c84hT_DseRg "")
+ 
 
  > **Shy Glizzy**- song *take me away* 
 
@@ -31,5 +33,6 @@ Hi, My name is Nick.
  > Sean O'Malley (UFC)
 
  > Nyjah huston (Skating)
-
+ 
+  
 
