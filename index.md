@@ -1,6 +1,6 @@
 ## Welcome.
 
-Hi, My name is Nick. :bamboo:
+Hi, My name is Nick. 
 
 & these are my top 3's (no specific order)
 
@@ -18,14 +18,14 @@ Hi, My name is Nick. :bamboo:
 
  > **Drake**- song *madonna*
 
-### Shows 
+#### Shows 
  > Peaky Blinders 
 
  > Wu-tang Clan 
 
  > Fullmetal Alchemist: Brotherhood 
 
-### Favorite Athletes
+#### Favorite Athletes
  > Luka Doncic (NBA)
 
  > Sean O'Malley (UFC)
