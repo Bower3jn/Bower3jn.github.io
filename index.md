@@ -51,8 +51,8 @@ As Alfie Solomons said:
  
 [![](http://img.youtube.com/vi/yKP7jQknGjs/0.jpg)](http://www.youtube.com/watch?v=yKP7jQknGjs "ski")
  
- 
- #Also 
+ ------------------------------------------------------------------------------------------------------
+ # Also 
  I do nature photography.
  Missing my hardrive but I do have several Photos on my Visco Account 
  
