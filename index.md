@@ -1,8 +1,7 @@
 # Welcome.
 -------------------------------------------------------------------------------------------------------
-Hi, My name is Nick. 
-& these are my top 3's (no specific order)
--------------------------------------------------------------------------------------------------------
+Hi, My name is Nick. & these are my top 3's (no specific order)
+
 ## Movies 
  > [The Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
 
