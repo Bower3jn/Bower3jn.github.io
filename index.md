@@ -37,7 +37,7 @@ As Alfie Solomons said:
  
  As Edward Elric said:
  
->It's a cruel and random world, but the chaos is all so beautiful.” “A lesson without pain is meaningless. For you cannot gain anything without sacrificing   >something else in return, but once you have overcome it and made it your own...you will gain an irreplaceable fullmetal heart.”
+>It's a cruel and random world, but the chaos is all so beautiful.” “A lesson without pain is meaningless. For you cannot gain anything without sacrificing   something else in return, but once you have overcome it and made it your own...you will gain an irreplaceable fullmetal heart.”
 
 ## Favorite Athletes
  - Luka Doncic (NBA)
