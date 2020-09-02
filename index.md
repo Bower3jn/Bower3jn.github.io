@@ -29,7 +29,7 @@ Hi, My name is Nick.
  
 As Alfie Solomons said:
 
->Intelligence is a very valuable thing, innit, my friend. And usually it comes far too fucking lat
+>Intelligence is a very valuable thing, innit, my friend. And usually it comes far too fucking late
 
  - [Wu-tang Clan](https://en.wikipedia.org/wiki/Wu-Tang:_An_American_Saga)
 
