@@ -11,11 +11,11 @@ Hi, My name is Nick.
 > Into The Wild 
 
 #### Artist (rap)
-> Joey Bada$$ song: *hardknocks*
+> Joey Bada$$- song: *hardknocks*
 
-> Shy Glizzy song: *take me away* 
+> Shy Glizzy- song: *take me away* 
 
-> Drake song: *madonna*
+> Drake- song: *madonna*
 
 ### Shows 
 > Peaky Blinders 
