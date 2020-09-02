@@ -22,7 +22,7 @@ Hi, My name is Nick.
 
  > **Mac miller**- song *Thoughs from a balcony*
 
-[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "")
+[[![](http://img.youtube.com/vi/nxufWf7dEcM/0.jpg)](http://www.youtube.com/watch?v=nxufWf7dEcM "ping")
 
 #### Shows 
  > Peaky Blinders 
