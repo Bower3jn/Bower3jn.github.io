@@ -51,8 +51,3 @@ As Alfie Solomons said:
  
  ------------------------------------------------------------------------------------------------------
 
-# Photography
- 
- missing hardrive but have some pics on a visco account...
- [*NewZeland2020*](https://vsco.co/nbower26/gallery) 
-
